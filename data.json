@@ -1,0 +1,26 @@
+[
+ 
+    {
+      "name":"bharath",
+      "age":24,
+      "mobile":9874651525
+    }, 
+    {
+        "name":"raja",
+        "age":44,
+        "mobile":9874651525
+      }, 
+      {
+        "name":"kavin",
+        "age":23,
+        "mobile":9874651525
+      }, 
+     {
+        "name":"rahul",
+        "age":14,
+        "mobile":9874651525
+      }
+
+ 
+]
+
